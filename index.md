@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Michael J. Coughlan
+title: Michael J. Coughlan, Mathematician/Complex systems scientist
 ---
 
 <img src="headshot.jpg" alt="Michael J. Coughlan" width="180" style="float:right; margin-left:20px; border-radius:50%;">
 
 
 ## About Me
-I am a senior data scientist and head of research at [Kerno](https://kerno.io), working on augmenting AI agents with observability data to proactively fix production issues, and on graph analytics for micro services. I have a PhD in mathematics from the University of Oxford on dynamical processes on networks, and have done postdoctoral research on modelling and explainability of biological and artificial neural networks. My main research interests focus on modelling complex systems, and I have worked on problems in oceanography, meteorite recovery, analysing animal trajectories, and mathematical problems in industry for manufacturing and tech.
+I am a senior data scientist and head of research at [Kerno](https://kerno.io), working on augmenting AI agents with observability data to proactively fix production software issues, and on graph analytics for micro services. I have a PhD in mathematics from the University of Oxford on dynamical processes on networks, and have done postdoctoral research on modelling and explainability of biological and artificial neural networks. My main research interests focus on modelling complex systems, and I have worked on problems in oceanography, meteorite recovery, analysing animal trajectories, and mathematical problems in industry for manufacturing and tech.
 
 I still have a visiting position at the Wageningen Institute of Animal Sciences at Wageningen University and Research in the Netherlands where I'm working on biological neural networks and tools for analysis of animal tracks. Previously I worked on problems in oceanography and climate science at the University of Oxford, and on glaciology problems at the University of Manchester, both in the UK. 
 
